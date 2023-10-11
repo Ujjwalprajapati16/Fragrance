@@ -200,6 +200,11 @@ header .navbar a{
     width:100%;
 }
 
+.products .box-container .box .image .icons .cart-btn:hover{
+    background-color: #F99417;
+    color: #363062;
+}
+
 .products .box-container .box .image .icons a:hover{
     background:#333;
 }
